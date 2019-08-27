@@ -1,2 +1,2 @@
-docker build -t react-platform:builder -f Dockerfile.builder .
-docker build -t react-platform:nginx -f Dockerfile.nginx .
+docker build -t liararepo/react-platform:builder -f Dockerfile.builder .
+docker build -t liararepo/react-platform:nginx -f Dockerfile.nginx .
